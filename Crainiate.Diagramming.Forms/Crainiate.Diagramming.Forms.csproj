@@ -160,7 +160,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\OpenDiagram.Diagramming\OpenDiagram.Diagramming.csproj">
-      <Project>{fde396be-c333-408b-951f-daa37fb1b0f3}</Project>
+      <Project>{dc0ff857-d4d8-4676-9f59-bda616ebaecc}</Project>
       <Name>OpenDiagram.Diagramming</Name>
     </ProjectReference>
   </ItemGroup>
